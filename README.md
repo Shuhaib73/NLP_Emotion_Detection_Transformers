@@ -8,10 +8,10 @@ Welcome to the Emotion Detection Web App! Unlock the power of cutting-edge AI to
 
 ## 📖 **Features**
 
-✅ **Advanced Emotion Detection**: Classify text into diverse emotions such as Happiness, Anger, Sadness, Fear, and Surprise, providing a deeper understanding of human sentiment.
-✅ **Fine-Tuned BERT-Base Model**: Powered by state-of-the-art natural language processing (NLP), the model is optimized for emotion recognition with superior accuracy.
+✅ **Real-Time Sentiment Analysis**: Effortlessly classify text into **Positive**, **Negative**, or **Neutral** categories Along with respective Ratings accurately.  
 ✅ **User-Friendly Interface**: Built with **Flask, HTML and CSS**, the interface ensures a smooth and intuitive experience for all users.  
-✅ **Customizable & Scalable**: The modular architecture supports fine-tuning for additional emotion classes or integration with larger datasets.
+✅ **Customizable**: The app's modular structure makes it easy to extend for various types of text analysis tasks beyond sentiment classification.  
+
 
 ---
 
