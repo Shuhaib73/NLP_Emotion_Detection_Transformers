@@ -11,10 +11,13 @@ Welcome to the Emotion Detection Web App! Unlock the power of cutting-edge AI to
 ✅ **Advanced Emotion Detection**: Classify text into diverse emotions such as Happiness, Anger, Sadness, Fear, and Surprise, providing a deeper understanding of human sentiment.  
 ✅ **Fine-Tuned BERT-Base Model**: Powered by state-of-the-art natural language processing (NLP), the model is optimized for emotion recognition through text with superior accuracy.
 
+✅ **LLM-Driven Context Understanding**: Leverages BERT’s bidirectional transformer architecture to capture context in text, enabling nuanced and accurate emotion detection.
+
 ✅ **Customizable & Scalable**: The modular architecture supports fine-tuning for additional emotion classes or integration with larger datasets.
 
 ✅ **User-Friendly Interface**: Built with Flask, HTML and CSS, the interface ensures a smooth and intuitive experience for all users.  
 
+✅ **Deployable Anywhere**: Containerized with Docker for consistent performance across environments.
 
 ---
 
@@ -41,26 +44,27 @@ These technologies collectively make the Sentiment Analyzer app a versatile, eff
 
 ### Input Options  
 1. **Single Text Analysis**:  
-   - A user can enter any text or sentence in the provided text box.  
-   - Upon clicking the **"Analyze Sentiment"** button, the app processes the input and provides real-time sentiment classification (Positive, Negative, or Neutral).  
-   - The System also generates sentiment scores (e.g., positivity, negativity, neutrality) for a deeper understanding.  
+      - A user can enter any text or sentence in the provided text box.
+      - Upon clicking the "Analyze Emotion" button, the app processes the input and classifies it into one of the predefined emotional categories such as Joy, Sadness, Anger, Fear, or Surprise.
 
 ---
 
 ### Output Features  
 
 1. **Sentiment Classification**:  
-   - Each text or row is labeled as **Positive**, **Negative**, or **Neutral**, making it easier to understand the overall sentiment.  
-
-2. **Sentiment Scores**:  
-   - For single text analysis, the app provides detailed numerical scores, including the degree of positivity, negativity, neutrality, and a compound score for sentiment intensity.  
+   - Each input text or dataset entry is labeled with a specific emotion such as Joy, Sadness, Anger, Fear, or Surprise. This helps users quickly grasp the dominant emotional tone of each text.
 
 These outputs enable quick, clear, and actionable insights for text-level sentiment analysis. 🎯
 
 ---
-## 🌟 **WordCloud Examples**
+## 📈 Visualizations**
 
-<img src="https://github.com/Shuhaib73/Sentiment-Analysis-NLP/blob/prj_branch/lstm_word.png" alt="Generated Image 1" style="max-width: 35%; height: 250px; border: 2px solid #ccc; border-radius: 8px; display: inline-block; margin-right: 10px;">
+<img src="https://github.com/Shuhaib73/NLP_Emotion_Detection_Transformers/blob/main/emo1_dis.png" alt="Generated Image 1" style="max-width: 35%; height: 250px; border: 2px solid #ccc; border-radius: 8px; display: inline-block; margin-right: 10px;">
+
+<img src="https://github.com/Shuhaib73/NLP_Emotion_Detection_Transformers/blob/main/emo1_txt_dis.png" alt="Generated Image 1" style="max-width: 35%; height: 250px; border: 2px solid #ccc; border-radius: 8px; display: inline-block; margin-right: 10px;">
+
+<img src="https://github.com/Shuhaib73/NLP_Emotion_Detection_Transformers/blob/main/emo1_word_dis.png" alt="Generated Image 1" style="max-width: 35%; height: 250px; border: 2px solid #ccc; border-radius: 8px; display: inline-block; margin-right: 10px;">
+
 
 ## 📝 **Model Accuracy & Model Loss Per Epoch**
 
