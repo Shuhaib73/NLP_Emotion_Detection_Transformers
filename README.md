@@ -1,4 +1,4 @@
-# Emotion Detection Web Application: Advanced Insights into Textual Emotions 🎭✨
+# Emotion Detection Web Application: Fine-Tuned LLM [Bert] for Emotional Insights 🎭✨
 
 Welcome to the Emotion Detection Web App! Unlock the power of cutting-edge AI to detect and understand emotions from text. Designed for researchers, marketers, and data enthusiasts, this app leverages fine-tuned BERT-base models to deliver precise and nuanced emotion classification. Whether analyzing customer feedback or understanding user sentiments, this tool is your go-to for emotional insights. 🌟
 
