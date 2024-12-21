@@ -68,9 +68,11 @@ These outputs enable quick, clear, and actionable insights for text-level sentim
 
 ## 📝 **Model Accuracy & Model Loss Per Epoch**
 
-   -- Accuracy: 88%
+<img src="https://github.com/Shuhaib73/NLP_Emotion_Detection_Transformers/blob/main/emo1_epo.png" alt="Generated Image 1" style="width: 900px; height: 280px; border: 2px solid #ccc; border-radius: 8px; display: inline-block; margin-right: 10px;">
 
-<img src="https://github.com/Shuhaib73/Sentiment-Analysis-NLP/blob/prj_branch/lstm_res.png" alt="Generated Image 1" style="width: 900px; height: 280px; border: 2px solid #ccc; border-radius: 8px; display: inline-block; margin-right: 10px;">
+## 📝 **Classification Report**
+
+<img src="https://github.com/Shuhaib73/NLP_Emotion_Detection_Transformers/blob/main/emo1_repo.png" alt="Generated Image 1" style="width: 900px; height: 280px; border: 2px solid #ccc; border-radius: 8px; display: inline-block; margin-right: 10px;">
 
 
 ---
