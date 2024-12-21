@@ -4,6 +4,8 @@ Welcome to the Emotion Detection Web App! Unlock the power of cutting-edge AI to
 
 ### *** Note: To access the Web Application Kindly visit my portfolio website or you can contact me through LinkedIn/Mail.***
 
+---
+
 ## 📖 **Features**
 
 ✅ **Advanced Emotion Detection**: Classify text into diverse emotions such as Happiness, Anger, Sadness, Fear, and Surprise, providing a deeper understanding of human sentiment.
